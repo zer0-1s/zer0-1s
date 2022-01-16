@@ -17,6 +17,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=007396)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
+![Go](https://img.shields.io/badge/-Go-333333??style=flat-square&logo=Go&logoColor=2490FC)
 
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
