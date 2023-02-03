@@ -7,7 +7,7 @@
 ### I'm zer0_1s
 
 - 🌱 A Information Security Student in GZHU, China.
-- ⚡ Fun fact: CTF , PWN, AI
+- ⚡ Fun fact: CTF , PWN, eBPF,linux
 
 
 
