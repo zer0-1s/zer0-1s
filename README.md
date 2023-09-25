@@ -7,7 +7,7 @@
 ### I'm zer0_1s
 
 - 🌱 A Information Security B.E. in GZHU && M.Phil in BUPT
-- ⚡ Fun fact: eBPF,linux
+- ⚡ Fun fact: eBPF,linux,firmware
 
 
 
