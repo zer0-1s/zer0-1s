@@ -25,6 +25,4 @@
 
 ### 关于我
 
-- [博客园](https://www.cnblogs.com/zuoanfengxi/)
-- [语雀](https://www.yuque.com/u1850273)
 - [Blog](https://zer01s.work/)
