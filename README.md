@@ -6,7 +6,7 @@
 -->
 ### I'm zer0_1s
 
-- 🌱 A Information Security B.E. in GZHU && M.Phil in BUPT
+- 🌱 A Information Security B.E. in GZHU && M.Phil in Beijing
 - ⚡ Fun fact: eBPF,linux,firmware
 
 
