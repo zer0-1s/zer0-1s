@@ -30,7 +30,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   0 hrs 0 mins    ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
