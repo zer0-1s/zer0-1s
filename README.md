@@ -30,7 +30,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Json   0 hrs 16 mins   🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
